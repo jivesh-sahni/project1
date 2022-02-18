@@ -69,11 +69,6 @@ public class SwingClass  {
 	}
 
 }
-class ButtonLab extends SwingClass{
-	
-	
-	
-}
 
 
  
